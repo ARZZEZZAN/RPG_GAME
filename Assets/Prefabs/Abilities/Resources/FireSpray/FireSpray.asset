@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b8692d9900c027409e7abc5545913f7, type: 3}
+  m_Name: FireSpray
+  m_EditorClassIdentifier: 
+  itemID: 3e878bef-9803-4d5b-a66e-270fea0d76af
+  displayName: Fireball Splash
+  description: Fireball Splash
+  icon: {fileID: 21300000, guid: a1ec2c0ddc0da634b85f0f465fec2d0d, type: 3}
+  pickup: {fileID: 3873527231984614812, guid: 7fb1f69673b13b749b9fbf0849632fd4, type: 3}
+  stackable: 0
+  _price: 10
+  _category: 4
+  consumable: 0
+  _targetingStrategy: {fileID: 11400000, guid: 8c7d2b9fa0a45004eb4fca96132f226c, type: 2}
+  _filterStrategies: []
+  _effectStrategies:
+  - {fileID: 11400000, guid: bdf69fceafa2a7846beff2cb49e934ba, type: 2}
+  - {fileID: 11400000, guid: 59e6fa5adccdb624c93d9975c3106613, type: 2}
+  - {fileID: 11400000, guid: c860f85e594b9be4a90ea01f1760073b, type: 2}
+  _cooldownTime: 10
+  _manaCost: 30

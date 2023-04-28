@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34c2a508369854b41a0a727fb65cb51d, type: 3}
+  m_Name: RedBow
+  m_EditorClassIdentifier: 
+  itemID: fe881638-f198-47e1-a2ea-998e4f5d8e51
+  displayName: Bow
+  description: 
+  icon: {fileID: 21300000, guid: f8078c2bb5ee88d4a9472f76e501e0f3, type: 3}
+  pickup: {fileID: 4016503226512734526, guid: cebb2d73ae60de44ca714c7f7a006910, type: 3}
+  stackable: 0
+  _price: 0
+  _category: 2
+  allowedEquipLocation: 5
+  _overrideController: {fileID: 22100000, guid: 7317933f564dfcb4385e4fd5814ff9ab, type: 2}
+  _weapon: {fileID: 6375755686612741778, guid: 45c754fa9266d114cbff5d338179f2f2, type: 3}
+  _weaponDamage: 6
+  _percentageBonus: 10
+  _weaponRange: 20
+  _isRightHanded: 0
+  _projectile: {fileID: 6047094922160801449, guid: 81070dbecc876ef45ad384a7d07e2e54, type: 3}

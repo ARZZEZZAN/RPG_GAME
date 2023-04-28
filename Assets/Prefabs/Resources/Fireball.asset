@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34c2a508369854b41a0a727fb65cb51d, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  itemID: 9df33535-514c-41ed-b4c6-a2884d423104
+  displayName: Fireball
+  description: 
+  icon: {fileID: 21300000, guid: aba0f700d91d4fc4fa8c724899ab04ab, type: 3}
+  pickup: {fileID: 1814539427660255394, guid: 4456dced5a8871b4a8841bf9c4ca7241, type: 3}
+  stackable: 0
+  _price: 500
+  _category: 2
+  allowedEquipLocation: 5
+  _overrideController: {fileID: 22100000, guid: a9f00dc9072e17243aedd4a1fcf4468a, type: 2}
+  _weapon: {fileID: 7711943656290148580, guid: 2d11f26051439df41973eb277e0fd044, type: 3}
+  _weaponDamage: 10
+  _percentageBonus: 12
+  _weaponRange: 10
+  _isRightHanded: 0
+  _projectile: {fileID: 3118841361297030242, guid: f00696fb55f183c489025607ed2eb4fe, type: 3}
